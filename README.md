@@ -35,7 +35,6 @@
 [//]: * (Blank space character in between space!!!!)
 ![](https://img.shields.io/badge/Tailwind⠀CSS-informational?style=flat&logo=TailwindCSS&logoColor=white&color=06B6D4)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=4FC08D)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)
 
