@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/C⠀Sharp-informational?style=flat&logo=CSharp&logoColor=white&color=239120)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
 
 [//]: * (Blank space character in between space!!!!)
 ![](https://img.shields.io/badge/Visual⠀Studio-informational?style=flat&logo=VisualStudio&logoColor=white&color=007ACC)
